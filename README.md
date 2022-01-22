@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Sharma
 - 👀 I’m interested in mechanical engineering related software development opportunities
 - 🌱 I’m currently learning C++ via solving problems posted on LeetCode
-- 💞️ I’m looking to collaborate on projects involving Computational Fluid Dyanmic (CFD), Finite Element Analysis (FEA) and Conjugate Heat-Transfer (CHT)
+- 💞️ I’m looking to collaborate on projects involving Computational Fluid Dyanmic (CFD), Finite Element Analysis (FEA), Conjugate Heat-Transfer (CHT) and Computer Aided Design (CAD)
 - 📫 You can reach me via msharma08.93@gmail.com 
 
 <!---
